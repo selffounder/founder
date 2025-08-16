@@ -38,6 +38,9 @@ export default function Home() {
           </div>
           <div className="text-gray-300 space-y-2">
             <p>Hi! My name is Alisher! I'm building startups and AI products, all while studying at Nazarbayev Intellectual School.</p>
+            <p>I'm building things while learning multiple stacks, including Tauri (React, Rust, & SQLite), Next.js, Postgres, and more.</p>
+            <p>I'm also researching AI and its ethical implications.
+              I build an AI startup for a living.</p> 
             <Link href="https://x.com/self_founder" className="text-green-400 hover:text-green-300 transition-colors">
               <p>Follow me on X</p>
             </Link>
